@@ -40,5 +40,5 @@
 Backend / Data Store : Appwrite<br>
 Deployment : Firebase
 </p>
-<h2🧪 Output</h2>
+<h2>🧪 Output</h2>
 
