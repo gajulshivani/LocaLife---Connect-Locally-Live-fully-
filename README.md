@@ -40,18 +40,5 @@
 Backend / Data Store : Appwrite<br>
 Deployment : Firebase
 </p>
-<h2>🗃️ Project Structure </h2>
-LocalLife-Connector
-│
-├── index.html<br>
-├── css/<br>
-│   └── style.css<br>
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-├── appwrite/
-│   └── config.js
-└── firebase/
-    └── firebase.json
+<h2🧪 Output</h2>
+
