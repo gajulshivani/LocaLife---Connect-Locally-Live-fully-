@@ -35,4 +35,23 @@
 * ✅User sign-in/sign-up and profile management<br>
 * ✅Activity details with address, time, and images<br>
 </p>
-<h2>🧰 Tech Stack<h2>
+<h2>🧰 Tech Stack</h2>
+<p>Frontend : HTML, CSS, JavaScript<br>
+Backend / Data Store : Appwrite<br>
+Deployment : Firebase
+</p>
+<h2>🗃️ Project Structure </h2>
+LocalLife-Connector
+│
+├── index.html<br>
+├── css/<br>
+│   └── style.css<br>
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+├── appwrite/
+│   └── config.js
+└── firebase/
+    └── firebase.json
