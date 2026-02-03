@@ -36,7 +36,7 @@
 * ✅Activity details with address, time, and images<br>
 </p>
 <h2>🧰 Tech Stack</h2>
-<p>Frontend : HTML, CSS, JavaScript<br>
+<p>Frontend : HTML, CSS, JavaScript <br>
 Backend / Data Store : Appwrite<br>
 Deployment : Firebase
 </p>
