@@ -42,3 +42,11 @@ Deployment : Firebase
 </p>
 <h2>🧪 Output</h2>
 
+<h2>👤 Author</h2>
+<p>Your Name <b>Shivani Gajul</b></p>
+<p>📧 Email : gajulshivani88@gmail.com</p>
+<p>🔗 GitHub: github.com/gajulshivani</p>
+
+
+
+
